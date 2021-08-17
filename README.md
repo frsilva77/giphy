@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project displays the first 10 trending gifs from https://api.giphy.com. 
+It uses Chacra UI library to render a modal with a bigger version of the gif.
+It also allows the searching of gifs based on user input.
 
 ## Available Scripts
 
